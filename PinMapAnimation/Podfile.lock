@@ -1,0 +1,29 @@
+PODS:
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - Pulsator (0.5.1)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - GooglePlaces
+  - Pulsator
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GoogleMaps
+    - GooglePlaces
+    - Pulsator
+
+SPEC CHECKSUMS:
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  Pulsator: f465ca37212d826523fe8c79b07c1a4c1a941f5e
+
+PODFILE CHECKSUM: dd311fbdc6b2f5c62007eb7c55e148dc68a791c1
+
+COCOAPODS: 1.5.3
